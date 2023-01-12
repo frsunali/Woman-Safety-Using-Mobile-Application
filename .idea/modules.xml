@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Women_Safety_Box.iml" filepath="$PROJECT_DIR$/.idea/modules/Women_Safety_Box.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Women_Safety_Box.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Women_Safety_Box.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/speech/Women_Safety_Box.speech.iml" filepath="$PROJECT_DIR$/.idea/modules/speech/Women_Safety_Box.speech.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,56 @@
+com/sac/speech/ui/animators/RotatingAnimator.java
+ com.sac.speech.ui.animators.RotatingAnimator
+com/sac/speech/ui/SpeechBar.java
+ com.sac.speech.ui.SpeechBar
+com/sac/speech/SpeechUtil.java
+ com.sac.speech.SpeechUtil
+com/sac/speech/SpeechRecognitionNotAvailable.java
+ com.sac.speech.SpeechRecognitionNotAvailable
+com/sac/speech/SpeechRecognitionException.java
+ com.sac.speech.SpeechRecognitionException
+net/gotev/speech/BuildConfig.java
+ net.gotev.speech.BuildConfig
+com/sac/speech/DelayedOperation.java
+ com.sac.speech.DelayedOperation
+ com.sac.speech.DelayedOperation$1
+ com.sac.speech.DelayedOperation$1$1
+ com.sac.speech.DelayedOperation$Operation
+com/sac/speech/Logger.java
+ com.sac.speech.Logger
+ com.sac.speech.Logger$1
+ com.sac.speech.Logger$LogLevel
+ com.sac.speech.Logger$LoggerDelegate
+ com.sac.speech.Logger$SingletonHolder
+com/sac/speech/ui/animators/RmsAnimator.java
+ com.sac.speech.ui.animators.RmsAnimator
+com/sac/speech/ui/animators/BarParamsAnimator.java
+ com.sac.speech.ui.animators.BarParamsAnimator
+com/sac/speech/TtsProgressListener.java
+ com.sac.speech.TtsProgressListener
+ com.sac.speech.TtsProgressListener$1
+ com.sac.speech.TtsProgressListener$2
+ com.sac.speech.TtsProgressListener$3
+com/sac/speech/ui/animators/BarRmsAnimator.java
+ com.sac.speech.ui.animators.BarRmsAnimator
+com/sac/speech/ui/SpeechProgressView.java
+ com.sac.speech.ui.SpeechProgressView
+ com.sac.speech.ui.SpeechProgressView$1
+com/sac/speech/DefaultLoggerDelegate.java
+ com.sac.speech.DefaultLoggerDelegate
+com/sac/speech/TextToSpeechCallback.java
+ com.sac.speech.TextToSpeechCallback
+com/sac/speech/GoogleVoiceTypingDisabledException.java
+ com.sac.speech.GoogleVoiceTypingDisabledException
+com/sac/speech/ui/animators/TransformAnimator.java
+ com.sac.speech.ui.animators.TransformAnimator
+ com.sac.speech.ui.animators.TransformAnimator$OnInterpolationFinishedListener
+com/sac/speech/Speech.java
+ com.sac.speech.Speech
+ com.sac.speech.Speech$1
+ com.sac.speech.Speech$2
+ com.sac.speech.Speech$2$1
+ com.sac.speech.Speech$stopDueToDelay
+com/sac/speech/ui/animators/IdleAnimator.java
+ com.sac.speech.ui.animators.IdleAnimator
+com/sac/speech/SpeechDelegate.java
+ com.sac.speech.SpeechDelegate
